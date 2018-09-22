@@ -1,0 +1,27 @@
+_repo: Historical-Record-of-the-First-or-the-Royal-Regiment-of-Dragoons-Containing-an-Account-of-Its__54891
+_version: 0.0.1
+alternative_title: Historical record of the 1st Dragoons
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army. Dragoons, 1st (Royal)'
+- GITenberg
+title: "Historical Record of the First, or the Royal Regiment of Dragoons\r\nContaining\
+  \ an Account of Its Formation in the Reign of King Charles the Second, and of Its\
+  \ Subsequent Services to 1839"
+url: http://www.gutenberg.org/ebooks/54891
